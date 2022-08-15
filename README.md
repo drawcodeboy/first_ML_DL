@@ -4,3 +4,4 @@
 # File List
 >* 01_3: KNN을 사용한 Binary Classfication
 >* 02_1: Train Set과 Test Set을 나누기
+>* 02_2: Data Preprocessing: Scaling
