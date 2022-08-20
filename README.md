@@ -8,4 +8,3 @@
 * 03_1: KNN을 이용한 Regression
 * 03_2: Linear Regression
 * 03_3 : Feature Engineering and Regularization
-   * Normalization 정리 ()
