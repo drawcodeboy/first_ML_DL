@@ -5,3 +5,5 @@
 >* 01_3: KNN을 사용한 Binary Classfication
 >* 02_1: Train Set과 Test Set을 나누기
 >* 02_2: Data Preprocessing: Scaling
+>* 03_1: KNN을 이용한 Regression
+>* 03_2: Linear Regression
