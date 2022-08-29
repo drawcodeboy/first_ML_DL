@@ -7,4 +7,5 @@
 * 02_2: Data Preprocessing: Scaling
 * 03_1: KNN을 이용한 Regression
 * 03_2: Linear Regression
-* 03_3 : Feature Engineering and Regularization
+* 03_3: Feature Engineering and Regularization
+* 04_1: Multiple Regression, Logistic Regression (Sigmoid & Softmax)
