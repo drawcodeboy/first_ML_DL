@@ -9,3 +9,5 @@
 * 03_2: Linear Regression
 * 03_3: Feature Engineering and Regularization
 * 04_1: Multiple Regression, Logistic Regression (Sigmoid & Softmax)
+* 04_2: Stochastic Gradient Descent, Loss Function, Epoch
+* 05_1: Decision Tree (+ Gini Impurity)
