@@ -11,3 +11,4 @@
 * 04_1: Multiple Regression, Logistic Regression (Sigmoid & Softmax)
 * 04_2: Stochastic Gradient Descent, Loss Function, Epoch
 * 05_1: Decision Tree (+ Gini Impurity)
+* 05_2: Cross Validation & Grid Search
