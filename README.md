@@ -2,6 +2,7 @@
 &lt;혼자 공부하는 머신러닝 + 딥러닝>을 통해 공부한 실습 자료 리포지토리입니다.
 
 # File List
+## Machine Learning
 * 01_3: Binary Classfication using KNN
 * 02_1: Train Set and Test Set Split
 * 02_2: Data Preprocessing: Scaling
@@ -16,3 +17,4 @@
 * 06_1: Unsupervised Learning: Clustering
 * 06_2: KMeans (+ Elbow using Inertia)
 * 06_3: PCA(Principal Components Analysis), Dimension Reduction
+## Deep Learning
