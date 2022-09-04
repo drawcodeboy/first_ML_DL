@@ -13,3 +13,4 @@
 * 05_1: Decision Tree (+ Gini Impurity)
 * 05_2: Cross Validation & Grid Search
 * 05_3: Tree Ensemble (Random Forest, Extra Tree, Gradient Boosting, Histogram-based Gradient Boosting)
+* 06_1: Unsupervised Learning: Clustering
