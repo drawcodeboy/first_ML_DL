@@ -18,3 +18,4 @@
 * 06_2: KMeans (+ Elbow using Inertia)
 * 06_3: PCA(Principal Components Analysis), Dimension Reduction
 ## Deep Learning
+* 07_1: ANN, Structure of ANN (Tensorflow and Keras)
