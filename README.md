@@ -19,4 +19,5 @@
 * 06_3: PCA(Principal Components Analysis), Dimension Reduction
 ## Deep Learning
 * 07_1: ANN, Structure of ANN (Tensorflow and Keras)
-* 07_2, DNN, relu (activation function for Image Classification), Optimizer(RMSprop, Adam, .. etc)
+* 07_2: DNN, relu (activation function for Image Classification), Optimizer(RMSprop, Adam, .. etc)
+* 07_3: ANN Model Training (history, validation set loss, dropout, callback(ModelCheckpoint, EarlyStopping))
