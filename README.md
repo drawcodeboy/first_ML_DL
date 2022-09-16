@@ -22,3 +22,4 @@
 * 07_2: DNN, relu (activation function for Image Classification), Optimizer(RMSprop, Adam, .. etc)
 * 07_3: ANN Model Training (history, validation set loss, dropout, callback(ModelCheckpoint, EarlyStopping))
 * 08_2: CNN Modeling (Filter, Kernel, Padding, Stride, Pooling)
+* 08_3: CNN Visualization (Filter, Feature Map)
