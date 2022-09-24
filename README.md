@@ -23,3 +23,4 @@
 * 07_3: ANN Model Training (history, validation set loss, dropout, callback(ModelCheckpoint, EarlyStopping))
 * 08_2: CNN Modeling (Filter, Kernel, Padding, Stride, Pooling)
 * 08_3: CNN Visualization (Filter, Feature Map)
+* 09_2: RNN Modeling (One-hot Encoding, Word Embedding)
