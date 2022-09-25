@@ -24,4 +24,4 @@
 * 08_2: CNN Modeling (Filter, Kernel, Padding, Stride, Pooling)
 * 08_3: CNN Visualization (Filter, Feature Map)
 * 09_2: RNN Modeling (One-hot Encoding, Word Embedding)
-* 03_3: RNN Modeling 2 (LSTM, GRU, Dropout, 2-RNN)
+* 09_3: RNN Modeling 2 (LSTM, GRU, Dropout, 2-RNN)
