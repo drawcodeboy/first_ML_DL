@@ -1,5 +1,6 @@
 # first_ML_DL
 &lt;혼자 공부하는 머신러닝 + 딥러닝>을 통해 공부한 실습 자료 리포지토리입니다.
+>* <b>9.25</b> 1회독
 
 # File List
 ## Machine Learning
